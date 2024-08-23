@@ -1,7 +1,7 @@
 {
   "name": "typing-test-app",
   "version": "0.1.0",
-  "homepage": "https://mommyvalery.github.io/Transcribe-your-video",
+  "homepage": "https://mommyvalery.github.io/Typing-test-app",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
@@ -22,6 +22,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
