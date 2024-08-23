@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Typing-test-app/static/css/main.e6c13ad2.css",
+    "main.js": "/Typing-test-app/static/js/main.d39a4cf9.js",
+    "static/media/logo.svg": "/Typing-test-app/static/media/logo.20bc7ef30abe03619fbea73914c22276.svg",
+    "index.html": "/Typing-test-app/index.html",
+    "main.e6c13ad2.css.map": "/Typing-test-app/static/css/main.e6c13ad2.css.map",
+    "main.d39a4cf9.js.map": "/Typing-test-app/static/js/main.d39a4cf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d39a4cf9.js"
+  ]
+}
